@@ -6,3 +6,8 @@ order: 4
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
+
+
+# This is a Markdown header
+> I write about my stuff here
+{: .prompt-info}
