@@ -12,6 +12,13 @@ description: This is my first post on my blog. I've always wanted to experiment 
 pin: true
 date: 2024-11-01 20:16 +0900
 ---
+
+- [Introduction](#introduction)
+- [Who am I ?](#who-am-i-)
+- [What will I write about ?](#what-will-i-write-about-)
+- [Some pictures I took of Daegu between September and November](#some-pictures-i-took-of-daegu-between-september-and-november)
+- [Conclusion](#conclusion)
+
 ## Introduction
 
 I have never, I mean never, written anything about me or my projects on a blog or done anything that resembles logging/journaling. I thought it would be a nice exercise to try and log once a week what I do and how I feel during this year abroad.
