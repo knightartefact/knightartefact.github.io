@@ -8,7 +8,10 @@ tags:
 - PSX
 - Programming
 - Low Level
-categories: [C++ Programming, RogEm]
+categories:
+- C++
+- RogEm
+- PSX Dev
 description: "An introduction to my team project: RogEm. For my final year, I have chosen to develop a PSX emulator from scratch in C++. My only experience in emulation was with the NES and I didn't even got to implement 10% of it."
 pin: true
 mermaid: true
@@ -214,4 +217,3 @@ I hope you liked reading this article and I hope you learned a thing or two!
 
 *[CPU]: Central Processing Unit
 *[RISC]: Reduced Instruction Set Computer
-
