@@ -10,6 +10,8 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 
 gem 'jemoji'
 
+gem "jekyll-wikirefs"
+
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"

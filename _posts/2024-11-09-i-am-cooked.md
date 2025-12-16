@@ -83,7 +83,7 @@ Now for the third predicate, it's only up to you to decide if you are capable of
 
 ## The Emulator
 
-![Architecture Diagram of the Playstation 1 Hardware](https://www.copetti.org/images/consoles/ps1/diagram.27d7ed4f6432dd68e84847dec4ccf26d2f595b96e477a959f42626c2e7059bbf_hu6216152268599202228.webp){: .shadow}
+![Architecture Diagram of the Playstation 1 Hardware](https://www.copetti.org/images/consoles/ps1/_diagrams/main.52d4f90c1dd8419893f1d08461e1bed1a5e4dca32ebaabfeddfa19c3fb98f5dd.png){: .shadow}
 _Architecture Diagram of the Playstation 1 Hardware[^ps1-architecture-diagram]_
 
 As you can see there are many hardware components inside the console, which are talking ot each other via the main bus (green line) and sub-buses (black and red lines)

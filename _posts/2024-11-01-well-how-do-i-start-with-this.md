@@ -2,7 +2,7 @@
 layout: post
 title: Well, how do I start with this...
 categories:
-- Personal Thoughts
+  - Personal Thoughts
 tags:
 - Website
 - Blogging
